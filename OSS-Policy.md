@@ -58,16 +58,17 @@ software.
 
 The following list may be updated from time to time:
 
-License Name | Version(s) / Copyright Date | Reference
-Academic Free License | 2.0 | http://www.samurajdata.se/opensource/mirror/licenses/afl-2.0.php
-Apache Software License | 2.0 | http://www.apache.org/licenses/LICENSE-2.0.html
-Apple Public Source License | 2.0 | http://www.publicsource.apple.com/license/apsl/
-Artistic license | From Perl 5.8.0 | https://reserves.lib.ncsu.edu/COPYING
-BSD license | "July 22 1999" | http://opensource.org/licenses/BSD-3-Clause
-GNU Library or "Lesser" General Public License (LGPL) | 2.0/2.1/3.0 | https://www.gnu.org/licenses/lgpl-2.1.txt https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html https://www.gnu.org/licenses/lgpl.html
-MIT license | | https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT
-Mozilla Public License (MPL) | 1.0/1.1 | https://www.mozilla.org/MPL/1.0/ https://www.mozilla.org/MPL/1.1/
-Open Software License | 2.0 | https://spdx.org/licenses/OSL-2.0
+| License Name | Version(s) / Copyright Date | Reference |
+| --- | --- | --- |
+| Academic Free License | 2.0 | http://www.samurajdata.se/opensource/mirror/licenses/afl-2.0.php |
+| Apache Software License | 2.0 | http://www.apache.org/licenses/LICENSE-2.0.html |
+| Apple Public Source License | 2.0 | http://www.publicsource.apple.com/license/apsl/ |
+| Artistic license | From Perl 5.8.0 | https://reserves.lib.ncsu.edu/COPYING |
+| BSD license | "July 22 1999" | http://opensource.org/licenses/BSD-3-Clause |
+| GNU Library or "Lesser" General Public License (LGPL) | 2.0 / 2.1 / 3.0 | https://www.gnu.org/licenses/lgpl-2.1.txt https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html https://www.gnu.org/licenses/lgpl.html |
+| MIT license |  | https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT |
+| Mozilla Public License (MPL) | 1.0 / 1.1 | https://www.mozilla.org/MPL/1.0/ https://www.mozilla.org/MPL/1.1/ |
+| Open Software License | 2.0 | https://spdx.org/licenses/OSL-2.0 |
 
 ### SCHEDULE B EVISION OSS BOARD
 
