@@ -21,13 +21,13 @@ The term **‘Open-Source Software’** or **‘OSS’** used in this Policy mea
 
   3. in the context of your contribution you are required to enter into a contributor license agreement (granting rights to your contribution to someone else than you or eVision);
 
-  4. the source code and contributions of such projectare publicly available; and
+  4. the source code and contributions of such project are publicly available; and
 
   5. such non-eVision OSS project does not compete with eVision’s business.
 
-2. You may perform contributions to Non-eVision OSS used within eVision software during working hours only when it is in eVision material benefit and fulfills the requirements set out under clause 1 above (for example, fixing a bug or contributing a feature that eVision software will benefit from).
+2. You may perform contributions to Non-eVision OSS used within eVision software during working hours only when they are of material benefit to eVision and fulfill the requirements set out under clause 1 above (for example, fixing a bug or contributing a feature that eVision software will benefit from).
 
-3. You may not perform any contributions using infringing code or code licensed under prohibited OSS terms as a part of eVision OSS code.
+3. You may not perform any contributions using infringing code or code licensed under prohibited OSS terms as part of eVision OSS code.
 
 4. You may perform contributions to Non-eVision OSS outside of working hours.
 
@@ -45,10 +45,6 @@ The term **‘Open-Source Software’** or **‘OSS’** used in this Policy mea
 software.
 
 - Your and eVision certain rights and duties arising out of this Policy survive the term of the actual employment / hire / another form of contractual relationship on basis of and within which the OSS was created.
-
-- This Policy may be updated and amended from time to time.
-
-- In case of any doubt, questions or queries in connection with this Policy or OSS, please contact eVision OSS Board. If you believe that any of the components or libraries created by (one of) eVision employees, contractors, agents or third parties and intellectual property rights to which are owned by eVision would benefit from being open source, please contact eVision OSS Board.
 
 - This Policy may be updated and amended from time to time.
 
