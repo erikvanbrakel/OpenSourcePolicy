@@ -1,6 +1,6 @@
 # Open-Source Software Policy #
 
-Version 2014.3
+Version 2014.4
 
 This document is released under the Creative Commons Attribution-ShareAlike (CC BY-SA). [View License Deed][1]. [View Legal Code][2].
 
