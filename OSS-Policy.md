@@ -1,6 +1,6 @@
 # Open-Source Software Policy #
 
-Version 2014.2
+Version 2014.3
 
 This document is released under the Creative Commons Attribution-ShareAlike (CC BY-SA). [View License Deed][1]. [View Legal Code][2].
 
@@ -31,7 +31,7 @@ The term **‘Open-Source Software’** or **‘OSS’** used in this Policy mea
 
 4. You may perform contributions to Non-eVision OSS outside of working hours.
 
-5. You will retain copyright to contributions to Non-eVision OSS in accordance with that projects’ policy, but if you perform contributions to Non-eVision OSS used within eVision software, you grant eVision an unrestricted, unlimited license with the right to grant sublicenses.
+5. You will retain copyright to contributions to Non-eVision OSS in accordance with that projects’ policy.
 
 6. Copyright and any other intellectual property rights to contributions to eVision OSS shall vest in eVision; you shall do whatever is necessary to transfer such rights to eVision.
 
