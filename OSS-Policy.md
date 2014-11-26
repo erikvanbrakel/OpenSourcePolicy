@@ -44,7 +44,7 @@ The term **‘Open-Source Software’** or **‘OSS’** used in this Policy mea
 - This Policy is applicable to all eVision employees, contractors, agents, third parties directly or indirectly engaged and involved in development of eVision
 software.
 
-- Your and eVision certain rights and duties arising out of this Policy survive the term of the actual employment / hire / another form of contractual relationship on basis of and within which the OSS was created.
+- Your and eVision certain rights and duties arising out of this Policy survive the term of the actual employment / hire / another form of contractual relationship on basis of and within which the OSS was created. This however applies only to version of the Policy in place at the moment of creation of such rights and obligations, and any subsequent amendments of the Policy will not be taken into account.
 
 - This Policy may be updated and amended from time to time.
 
